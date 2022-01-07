@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhon-asay
-- 👀 I’m interested in PROGRAMMING, WEB APPS, MOBILE APPS, GUI.
-- 🌱 I’m currently learning PYTHON, DJANGO, AWS.
-- 💞️ I’m looking to collaborate on SMALL / PRACTICE PROJECTS.
+- 👀 I’m interested in WEB DEVELOPMENT.
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, JQUERY.
+- 💞️ I’m looking to collaborate on ANY WEB PROJECTS.
 - 📫 How to reach me https://www.linkedin.com/in/jhon-asay/
 
 <!---
