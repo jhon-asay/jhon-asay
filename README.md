@@ -1,8 +1,6 @@
 # Jhon Asay
 
--
-
-**`Front-End Developer`**
+### About Me
 
 I'm a front-end developer currently located in the United States. 
 
