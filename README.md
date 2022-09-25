@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @jhon-asay
-- 👀 I’m interested in WEB DEVELOPMENT.
-- 🌱 I’m currently learning HTML, CSS, SASS, JAVASCRIPT, REACT, AND FIREBASE.
-- 💞️ I’m looking to collaborate on ANY WEB PROJECTS.
-- 📫 How to reach me https://www.linkedin.com/in/jhon-asay/
+# Jhon Asay
+
+-
+
+**`Front-End Developer`**
+
+I'm a front-end developer currently located in the United States. 
 
 ---
 
