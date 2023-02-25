@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a front-end developer currently located in the United States. 
+I am a front-end web developer based in the United States with a passion for creating engaging and user-friendly websites. With a strong foundation in HTML, CSS, and JavaScript, I specialize in crafting responsive and visually appealing designs that captivate users and enhance their online experience.
 
 ---
 
